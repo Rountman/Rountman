@@ -2,7 +2,7 @@
 - 👀 I’m interested in Unity AR developing
 - 🌱 I’m currently learning AR developing for Android and AI
 - 💞️ I’m looking to collaborate on game projects
-- 📫 How to reach me entonypecka@gmail.com
+- 📫 entonypecka@gmail.com
 
 <!---
 Rountman/Rountman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
