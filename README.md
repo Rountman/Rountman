@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Antonín Pecka
-- 👀 I’m interested in Unity AR developing
-- 🌱 I’m currently learning AR developing for Android and AI
+- 👀 I’m interested in Mobile Augmented Reality developing and the use of Artificial Intelligence in Medicine and Games
+- 🌱 I’m currently learning Augmented Reality developing for Android and Artificial Intelligence
 - 💞️ I’m looking to collaborate on game projects
 - 📫 entonypecka@gmail.com
 
