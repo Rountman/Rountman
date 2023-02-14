@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Antonín Pecka
-- 👀 I’m interested in Mobile Augmented Reality developing and the use of Artificial Intelligence in Medicine and Games
+- 👀 I’m interested in Mobile Augmented Reality developing and the use of Artificial Intelligence and Games
 - 🌱 I’m currently learning Augmented Reality developing for Android and Artificial Intelligence
 - 📫 entonypecka@gmail.com
 - 🌊 [ARWave.tech](http://arwave.tech/)
